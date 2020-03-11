@@ -11,6 +11,11 @@ public class Main {
         chk1.showInfo ();
         System.out.println ("*************");
         save1.showInfo ();
+
+        save1.deposit (4000);
+        save1.withdraw (400);
+        save1.transfer ("Cach", 300);
+
         // read a CSV file and create new accounts based  on that data
 
 

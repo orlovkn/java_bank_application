@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb0cf15d-0099-4079-a8b3-ffc2f22a6e02" name="Default Changelist" comment="" />
+    <list default="true" id="eb0cf15d-0099-4079-a8b3-ffc2f22a6e02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Checking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/IRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/IRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Savings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Savings.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +24,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YjrEo3KSjn7Q6g67RuGOb9Mm37" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -58,5 +73,16 @@
       <updated>1583466735597</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
