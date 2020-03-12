@@ -2,13 +2,13 @@ package com.ehoteam.java_bank_application;
 
 public abstract class Account implements IRate {
     // list common properties for savings and checking accounts
-    String name;
-    String sSN;
-    double balance;
+    private String name;
+    private String sSN;
+    private double balance;
 
-    static int index = 10000;
-    String accountNumber;
-    double rate;
+    private static int index = 10000;
+    protected String accountNumber;
+    protected double rate;
 
     // constructor to set base properties and initialise the account
     public Account(String name, String sSN, double initDeposit) {
@@ -30,6 +30,13 @@ public abstract class Account implements IRate {
         int uniqueID = index;
         int randomNumber = (int) (Math.random () * Math.pow(10, 3));
         return lastTwoOfSSN + uniqueID + randomNumber;
+    }
+
+    public void compound() {
+        double accruedInterest = balance * (rate/100);
+        balance = balance + accruedInterest;
+        System.out.println ("ACCRUED INTEREST: $" + accruedInterest);
+        printBalance ();
     }
 
     // list common methods - transactions

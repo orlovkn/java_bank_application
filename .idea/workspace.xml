@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb0cf15d-0099-4079-a8b3-ffc2f22a6e02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Checking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/IRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/IRate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Savings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ehoteam/java_bank_application/Savings.java" afterDir="false" />
     </list>
@@ -19,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>

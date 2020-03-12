@@ -2,8 +2,8 @@ package com.ehoteam.java_bank_application;
 
 public class Savings extends Account {
     // list properties specific savings account
-    int safetyDepositBoxID;
-    int safetyDepositBoxKey;
+    private int safetyDepositBoxID;
+    private int safetyDepositBoxKey;
 
     // constructor to initialise settings for the savings properties
 

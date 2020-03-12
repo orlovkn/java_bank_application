@@ -2,8 +2,8 @@ package com.ehoteam.java_bank_application;
 
 public class Checking extends Account {
     // list properties specific to a Checking account
-    int debitCardNumber;
-    int debitCardPIN;
+    private int debitCardNumber;
+    private int debitCardPIN;
 
     // constructor to initialise checking account properties
 
